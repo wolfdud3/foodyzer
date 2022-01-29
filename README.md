@@ -5,7 +5,7 @@ Help for UCLan Students who cannot decide what to order.
 Get it running and wait for a Message Box to pop up. Here you have three choices
 
 <ul>
-  <li>YES -> be directed to a randomly choosen restaurant on [Foody](https://www.foody.com.cy).</li>
+  <li>YES -> be directed to a randomly choosen restaurant on https://www.foody.com.cy. </li>
   <li>NO -> Choose a new random restaurant</li>
   <li>CANCEL -> self-explainatory</li>
  </ul>
